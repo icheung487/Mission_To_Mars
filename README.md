@@ -1,10 +1,10 @@
 # Mission_To_Mars
 
 # Sources: 
-Python Files are located [here](https://github.com/icheung487/Mission_To_Mars/blob/main/Mission_to_Mars_Challenge.ipynb)
-The index files are located [here](https://github.com/icheung487/Mission_To_Mars/tree/main/Templates)
+* Python Files are located [here](https://github.com/icheung487/Mission_To_Mars/blob/main/Mission_to_Mars_Challenge.ipynb)
+* The index files are located [here](https://github.com/icheung487/Mission_To_Mars/tree/main/Templates)
 
-Purpose:
+# Purpose:
 The purpose of this challenge was to utilize Beautiful Soup and Splinter to scrape the images and titles of the Mar's hemispheres.  It would store the scrape on Mongo database, then use a web application to visually display the scrape.  It is help provide live updated data if needed for upper management to visually see the information. 
 
 Below is the finale web scraping with a few added enhancements.  
