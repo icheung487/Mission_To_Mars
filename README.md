@@ -9,7 +9,8 @@ The purpose of this challenge was to utilize Beautiful Soup and Splinter to scra
 
 Below is the finale web scraping with a few added enhancements.  
 * Changed the color of the button and made it flash so it's easier for people to see where to scrape new data.
-* Change the title to a scroll and color background
+* Change the title to a scroll
+* Aded color to the jumbotron and background
 * Add a light border around the hemisphere images
 
 ![image](https://github.com/icheung487/Mission_To_Mars/blob/main/images/Web_scrapying_page.png)
